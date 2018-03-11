@@ -40,7 +40,7 @@ The strictness variable takes values from 0 to 6, each number a count of how man
 
 The following comparative analyses exclude the Angeles Forest region, which only had one observation.
 Comparative analysis of the different regions in Los Angeles reveals that South Bay is the strictest region in the area. The area with the most expensive listings, on average, is the Santa Monica Mountain region. The least expensive region, on average, is the Southeast region. A table of our results is displayed below:
-<img src="results_table.png" height = "700"/>
+<img src="results_table.png"/>
 
 Using this information, we created three plots that display strictness levels per listing and per region. The regional plot displays the average strictness level per region. The plot displaying individual listings also reveals the disparity in listing density per region, an important caveat to keep in mind when interpreting the results. The two plots can be viewed below:
 <img src="strictness_levels.png"/>
