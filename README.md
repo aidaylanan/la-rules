@@ -46,4 +46,6 @@ Using this information, we created three plots that display strictness levels pe
 <img src="strictness_levels.png"/>
 
 We also looked within the house_rules and strictness variables to see which rules and which pairs of rules are most common. The most common rule is No Smoking, while the most common pair of rules is No Smoking and No Partying. The results are displayed on the stacked bar chart below: 
-<img src="rule_combos.png"/>
+<p align = "center">
+<img src="rule_combos.png" width = "700"/>
+</p>
